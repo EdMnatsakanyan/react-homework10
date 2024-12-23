@@ -1,0 +1,160 @@
+{
+  "users": [
+    {
+      "id": "6",
+      "name": "Edward",
+      "surname": "Garcia",
+      "age": 38,
+      "salary": 88056.61,
+      "programming_languages": [
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Go",
+        "Swift"
+      ],
+      "posts": [
+        {
+          "id": 1,
+          "text": "Refactoring old code feels satisfying."
+        },
+        {
+          "id": 2,
+          "text": "Practicing algorithms and data structures."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "George",
+      "surname": "Garcia",
+      "age": 31,
+      "salary": 62895.57,
+      "programming_languages": [
+        "PHP",
+        "Java",
+        "Swift",
+        "C++"
+      ],
+      "posts": [
+        {
+          "id": 1,
+          "text": "Just solved a challenging bug."
+        },
+        {
+          "id": 2,
+          "text": "Debugging can be frustrating but rewarding."
+        },
+        {
+          "id": 3,
+          "text": "Coding late into the night..."
+        },
+        {
+          "id": 4,
+          "text": "Practicing algorithms and data structures."
+        },
+        {
+          "id": 5,
+          "text": "Just solved a challenging bug."
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "George",
+      "surname": "Brown",
+      "age": 49,
+      "salary": 119776.6,
+      "programming_languages": [
+        "TypeScript",
+        "Python",
+        "PHP",
+        "C#"
+      ],
+      "posts": [
+        {
+          "id": 1,
+          "text": "Refactoring old code feels satisfying."
+        },
+        {
+          "id": 2,
+          "text": "Exploring new frameworks."
+        },
+        {
+          "id": 3,
+          "text": "Exploring new frameworks."
+        },
+        {
+          "id": 4,
+          "text": "Learning React is fun!"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Julia",
+      "surname": "Garcia",
+      "age": 29,
+      "salary": 70624.89,
+      "programming_languages": [
+        "Swift",
+        "Go",
+        "TypeScript"
+      ],
+      "posts": [
+        {
+          "id": 1,
+          "text": "Just solved a challenging bug."
+        },
+        {
+          "id": 2,
+          "text": "Experimenting with Tailwind CSS."
+        },
+        {
+          "id": 3,
+          "text": "Exploring new frameworks."
+        },
+        {
+          "id": 4,
+          "text": "Practicing algorithms and data structures."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Julia",
+      "surname": "Martinez",
+      "age": 21,
+      "salary": 110936.76,
+      "programming_languages": [
+        "C#",
+        "Java",
+        "Go",
+        "Swift",
+        "PHP"
+      ],
+      "posts": [
+        {
+          "id": 1,
+          "text": "Experimenting with Tailwind CSS."
+        },
+        {
+          "id": 2,
+          "text": "Just solved a challenging bug."
+        },
+        {
+          "id": 3,
+          "text": "Just solved a challenging bug."
+        },
+        {
+          "id": 4,
+          "text": "Learning React is fun!"
+        },
+        {
+          "id": 5,
+          "text": "Coding late into the night..."
+        }
+      ]
+    }
+  ]
+}
